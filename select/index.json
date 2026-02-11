@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "最終列車",
+  "base_artist": "Azule Orchid",
+  "createdAt": "2026-02-11T14:27:10.351637Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "最終列車",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/01_最終列車_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "最終列車",
+      "artist": "すとぷり",
+      "has_synced": true,
+      "path": "select/02_最終列車_すとぷり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "最終列車",
+      "artist": "くるり",
+      "has_synced": true,
+      "path": "select/03_最終列車_くるり.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "最終列車",
+      "artist": "MUCC",
+      "has_synced": true,
+      "path": "select/04_最終列車_MUCC.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "最終列車",
+      "artist": "UNLIMITS",
+      "has_synced": true,
+      "path": "select/05_最終列車_UNLIMITS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "最終列車",
+      "artist": "ムック",
+      "has_synced": true,
+      "path": "select/06_最終列車_ムック.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "最終列車",
+      "artist": "Azule Orchid",
+      "has_synced": false,
+      "path": "select/pl_01_最終列車_Azule_Orchid.txt"
+    }
+  ]
+}
